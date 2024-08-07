@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(90deg, rgba(9, 70, 121, 1) 0%, rgb(29, 161, 187) 100%);
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 900px;
+}
+
+.container div {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    border: solid white 1px;
+}
+
+div p {
+    text-align: left;
+}
+
+.explorar {
+    color: dodgerblue;
+}
